@@ -1,9 +1,9 @@
 # Musical Compositions
-Ryan Lin
-CSC 174 Assignment 4
-September 19, 2018
+Ryan Lin  
+CSC 174 Assignment 4  
+September 19, 2018  
 
-# topics
+# Topics
 - Étude
 - Waltz
 - Nocturne
